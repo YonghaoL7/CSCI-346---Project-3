@@ -1,0 +1,11 @@
+﻿cluster:
+  enabled: true
+  nodes: 6
+  init: false
+
+
+replica:
+  replicaCount: 0
+
+
+usePassword: false
